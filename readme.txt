@@ -6,3 +6,7 @@ Git tracks changes.
 
 
 add test
+
+
+
+Creating a new branch is quick.
